@@ -86,14 +86,11 @@ I'm a passionate Full Stack Developer who loves turning ideas into reality throu
           <a href="https://github.com/naveendgp/SyncSpace" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=naveendgp&repo=SyncSpace&theme=tokyonight&hide_border=true" alt="Project 1"/>
           </a>
-          <p><strong>React, Node.js, MongoDB</strong> - A full-stack web application that [brief description of what your project does]</p>
           <div>
             <a href="https://github.com/naveendgp/SyncSpace" target="_blank">
               <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
             </a>
-            <a href="https://project1-demo.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo Badge"/>
-            </a>
+          </div>
           </div>
         </div>
       </td>
@@ -103,32 +100,25 @@ I'm a passionate Full Stack Developer who loves turning ideas into reality throu
           <a href="https://github.com/naveendgp/UrbanLink" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=naveendgp&repo=UrbanLink&theme=tokyonight&hide_border=true" alt="Project 2"/>
           </a>
-          <p><strong>Python, Flask, PostgreSQL</strong> - An innovative solution that [brief description of what your project does]</p>
           <div>
             <a href="https://github.com/naveendgp/UrbanLink" target="_blank">
               <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
             </a>
-            <a href="https://project2-demo.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo Badge"/>
-            </a>
+          </div>
           </div>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Interactive Voice AI/h3>
+        <h3 align="center">Interactive Voice AI</h3>
         <div align="center">
           <a href="https://github.com/naveendgp/Inetractive-Voice-Response" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?naveendgp=Inetractive-Voice-Response&repo=project3&theme=tokyonight&hide_border=true" alt="Project 3"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=naveendgp&repo=Inetractive-Voice-Response&theme=tokyonight&hide_border=true" alt="Project 3"/>
           </a>
-          <p><strong>Next.js, TypeScript, Firebase</strong> - A modern web application that [brief description of what your project does]</p>
           <div>
             <a href="https://github.com/naveendgp/Inetractive-Voice-Response" target="_blank">
               <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-            </a>
-            <a href="https://project3-demo.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo Badge"/>
             </a>
           </div>
         </div>
@@ -139,13 +129,9 @@ I'm a passionate Full Stack Developer who loves turning ideas into reality throu
           <a href="https://github.com/naveendgp/Anime-OTT" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=naveendgp&repo=Anime-OTT&theme=tokyonight&hide_border=true" alt="Project 4"/>
           </a>
-          <p><strong>MERN Stack</strong> - An enterprise-level application that [brief description of what your project does]</p>
           <div>
             <a href="https://github.com/naveendgp/Anime-OTT" target="_blank">
               <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-            </a>
-            <a href="https://project4-demo.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo Badge"/>
             </a>
           </div>
         </div>
@@ -169,4 +155,4 @@ I'm a passionate Full Stack Developer who loves turning ideas into reality throu
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-<p>Thanks for visiting my profile😊</p>
+<p align='center'>Thanks for visiting my profile😊</p>
