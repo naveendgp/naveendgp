@@ -124,8 +124,24 @@ I'm a passionate Full Stack Developer who loves turning ideas into reality throu
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Anime Streaming</h3>
+        <h3 align="center">AI Eccomerce System</h3>
         <div align="center">
+          <a href="https://github.com/naveendgp/AI-Eccomerce-System" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=naveendgp&repo=AI-Eccomerce-System&theme=tokyonight&hide_border=true" alt="Project 4"/>
+          </a>
+          <div>
+            <a href="https://github.com/naveendgp/AI-Eccomerce-System" target="_blank">
+              <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+            </a>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+  <table>
+    
+  <tr>
+   <div align="center">
           <a href="https://github.com/naveendgp/Anime-OTT" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=naveendgp&repo=Anime-OTT&theme=tokyonight&hide_border=true" alt="Project 4"/>
           </a>
@@ -135,8 +151,7 @@ I'm a passionate Full Stack Developer who loves turning ideas into reality throu
             </a>
           </div>
         </div>
-      </td>
-    </tr>
+  </tr>
   </table>
 </div>
 
