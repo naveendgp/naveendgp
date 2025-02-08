@@ -29,7 +29,7 @@ I'm a passionate Full Stack Developer who loves turning ideas into reality throu
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="React" width="65" height="65" />
-      <br>React
+      <br>Redux
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
